@@ -15,25 +15,7 @@ It includes reusable components, smooth animations, and a clean UI to provide us
 
 ---
 
-## 📂 Project Structure
-src/
-├── components/ # Reusable UI components
-│ ├── Navbar.jsx
-│ ├── Hero.jsx
-│ ├── Features.jsx
-│ ├── FeatureCard.jsx
-│ ├── Testimonials.jsx
-│ ├── TestimonialCard.jsx
-│ └── Footer.jsx
-├── styles/ # Component-specific CSS
-│ ├── navbar.css
-│ ├── hero.css
-│ ├── features.css
-│ ├── testimonials.css
-│ └── footer.css
-├── App.js
-└── index.js
----
+
 
 ## 🛠️ Setup Instructions
 
