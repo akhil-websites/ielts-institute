@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IELTS Institute Website
 
 A responsive and modern landing page for an IELTS Institute built with **React.js**.  
@@ -51,3 +52,7 @@ It includes reusable components, smooth animations, and a clean UI to provide us
 
 4. **Build for production**
   npm run build
+=======
+# ielts-institute
+Responsive React landing page for IELTS Institute
+>>>>>>> da518cebe286aef6f4e2b98999273092771cda37
